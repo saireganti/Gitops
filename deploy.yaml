@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: mycont
-          image: shaikmustafa/dm
+          image: shaikmustafa/cycle
           ports:
             - containerPort: 80
 
